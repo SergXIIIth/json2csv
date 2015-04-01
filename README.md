@@ -54,7 +54,7 @@ Or install it yourself as:
 
 ## Usage
 
-json2csv path/to/file.json
+json2csv convert path/to/file.json
 
 ## Contributing
 
